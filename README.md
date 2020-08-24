@@ -4,6 +4,8 @@
 
   Clásico juego de hundir la flota en C
   
+  Fue mi primer proyecto :P
+  
   Menu Inicial
 ![1](https://i.ibb.co/Z1Rdx7b/1.png)
   Juego
