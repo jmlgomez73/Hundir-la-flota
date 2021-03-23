@@ -1,4 +1,4 @@
-# Hundir-la-flota
+# Hundir-la-flota / Battleship sea battle
 
 ## Descripción
 
